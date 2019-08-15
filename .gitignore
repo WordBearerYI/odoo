@@ -1,3 +1,6 @@
+_MACOSX
 *.pth
 .DS_Store
 .ipyny_checkpoints
+*.tar
+weight
